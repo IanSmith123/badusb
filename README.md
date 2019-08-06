@@ -8,3 +8,4 @@ badusb sample code
 - windows-calc.cpp windows弹计算器代码
 - ubuntu-terminal.cpp  ubuntu打开终端 
 - linux-shell.cpp ubuntu反弹shell
+
